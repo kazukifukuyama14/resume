@@ -1,0 +1,11 @@
+node_modules
+
+# Jekyll関連
+_site/
+.sass-cache/
+.jekyll-cache/
+vendor/
+
+# macOS関連
+.DS_Store
+Thumbs.db

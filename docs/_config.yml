@@ -1,7 +1,7 @@
 title: 職務経歴書
 description: クラウドインフラ構築・保守・運用の専門
 author: 福山和規
-github_username: kazukifukuyama14
+github_username: wan0ri
 
 # Jekyll設定
 # GitHub Pages用のプラグイン設定
@@ -37,4 +37,4 @@ show_excerpts: true
 # GitHub Pages用の追加設定
 # リポジトリ名が"resume"の場合、baseurlは"/resume"が正しい
 baseurl: "/resume"
-url: "https://kazukifukuyama14.github.io"
+url: "https://wan0ri.github.io"

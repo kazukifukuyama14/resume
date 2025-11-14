@@ -45,7 +45,7 @@ title: 詳細職務経歴書
 
 ### アウトプット
 
-[GitHub](https://github.com/kazukifukuyama14)  
+[GitHub](https://github.com/wan0ri)  
 [Zenn](https://zenn.dev/wan0ri)  
 [ブログ(AWS + Hugo で構築)](https://wan0ri.com)
 

@@ -6,7 +6,7 @@
 
 ## 職務経歴書サイト
 
-**[GitHub Pages で職務経歴書を確認する](https://kazukifukuyama14.github.io/resume/)**
+**[GitHub Pages で職務経歴書を確認する](https://wan0ri.github.io/resume/)**
 
 ## プロジェクト構成
 

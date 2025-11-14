@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazukifukuyama14/resume.git"
+    "url": "git+https://github.com/wan0ri/resume.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/kazukifukuyama14/resume/issues"
+    "url": "https://github.com/wan0ri/resume/issues"
   },
-  "homepage": "https://github.com/kazukifukuyama14/resume#readme",
+  "homepage": "https://github.com/wan0ri/resume#readme",
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",
     "@textlint-ja/textlint-rule-no-dropping-i": "^3.0.0",

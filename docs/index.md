@@ -42,5 +42,3 @@ title: 福山和規 - 職務経歴書
 ## 詳細な職務経歴
 
 [詳細な職務経歴書はこちら](README)
-
-[GitHub](https://github.com/kazukifukuyama14) | [Zenn](https://zenn.dev/wan0ri) | [ブログ](https://wan0ri.com)

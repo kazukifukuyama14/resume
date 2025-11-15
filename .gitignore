@@ -9,3 +9,6 @@ vendor/
 # macOS関連
 .DS_Store
 Thumbs.db
+
+# その他
+/sources

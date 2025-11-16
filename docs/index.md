@@ -42,7 +42,7 @@ title: 福山和規 - 職務経歴書
 - 監視/運用: JP1, Zabbix
 - OS/仮想化: Windows Server 2016/2019, Linux (RHEL), VMware, Docker
 
-### 案件目次 {: #toc-projects }
+### 案件目次 {#toc-projects}
 
 - 保険基盤システム AWS 移行・現在参画中 → [詳細へ]({{ site.baseurl }}/README#proj1)
 - AWS 業務基盤：新規・追加構築／保守 → [詳細へ]({{ site.baseurl }}/README#proj2)
